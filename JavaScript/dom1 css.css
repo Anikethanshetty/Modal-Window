@@ -76,10 +76,15 @@ h1 {
   right: 2rem;
 }
 
-.again {
+.btn-again {
   position: absolute;
   top: 2rem;
   left: 2rem;
+  font-size: 5rem ;
+  height: 7rem;
+  width: 20rem;
+  border-radius: 100px;
+
 }
 
 .guess {
